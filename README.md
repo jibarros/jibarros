@@ -20,4 +20,9 @@ I'm a senior technician in web application development.
 And more...
 
 ## Find me at:
+[![Twitter](https://img.shields.io/badge/Twitter-@isaac__jbv-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/isaac_jbv)
+[![Instagram](https://img.shields.io/badge/Instagram-@isaac.jbv-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/isaac.jbv)
+</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Barros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jibarros)
+
+Made with ♥️ in Galicia
