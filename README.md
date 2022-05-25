@@ -20,4 +20,4 @@ I'm a senior technician in web application development.
 And more...
 
 ## Find me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Barros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/jibarros))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Barros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jibarros)
