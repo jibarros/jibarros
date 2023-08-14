@@ -18,10 +18,19 @@ Senior technician in web application development.
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
-[![DB2](https://img.shields.io/badge/DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=101010)]()
 </br>
+
+## Experience:
+- API development with .NET
+- Front-end development with Angular, JS, HTML, CSS and PHP
+- Microservices development with Java
+- Agile methodologies (Scrum and Kanban)
+- CI/CD
+- Git and SVN repositories
+- Postman and SOAP 
+
 
 ## Find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Barros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jibarros)
